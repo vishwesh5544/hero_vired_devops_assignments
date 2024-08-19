@@ -26,3 +26,8 @@ This repository serves as a central hub for all the assignments I've completed a
 ### Feedback
 
 Please feel free to provide feedback or suggestions by opening an issue in the relevant assignment repository.
+
+### Contact
+
+If you have any questions or feedback, feel free to [Email Me](mailto:vishweshshukla20@gmail.com).
+
