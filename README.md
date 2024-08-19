@@ -15,6 +15,11 @@ This repository serves as a central hub for all the assignments I've completed a
 
 ---
 
+### Additional Information
+
+- **Neovim Config:** I use Neovim as my text editor. You can find my configuration [here](https://github.com/vishwesh5544/neovish).
+- **Operating System:** I'm using Linux Pop!_OS for all my development work.
+
 ### How to Use This Repository
 
 - Click on the links in the table above to navigate to the respective assignment repositories.
