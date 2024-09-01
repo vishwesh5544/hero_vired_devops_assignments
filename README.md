@@ -10,6 +10,7 @@ This repository serves as a central hub for all the assignments I've completed a
 | Networking and Servers | Practical on nginx and virtual machines | [Repo Link](https://github.com/vishwesh5544/networking_assignment)  | 50/50 |
 | Python Programming | Flask & Python scripting for Devops  | [Repo Link](https://github.com/vishwesh5544/python-assignment-solution) | 50/50 |
 | Git and Github | Practical on Git basic advanced commands and Github versioning and releasing | [Repo Link](https://github.com/username/assignment3-repo) | 50/50 |
+| Automated Testing and Linux and Shell Scripting | Assignment for writing and understanding Bash scripts proficiently. | [Repo Link](https://github.com/vishwesh5544/linux_and_shell_scripting_assignment.git) | Not Graded |
 
 ---
 
