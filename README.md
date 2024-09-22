@@ -12,6 +12,10 @@ This repository serves as a central hub for all the assignments I've completed a
 | Git and Github | Practical on Git basic advanced commands and Github versioning and releasing | [Repo Link](https://github.com/username/assignment3-repo) | 50/50 |
 | Automated Testing and Linux and Shell Scripting | Assignment for writing and understanding Bash scripts proficiently. | [Repo Link](https://github.com/vishwesh5544/linux_and_shell_scripting_assignment.git) | 50/50 |
 | Travel Memory App CI-CD | Create a complete CI-CD pipeline using bash, python, and crontabs. | [Repo Link](https://github.com/vishwesh5544/ci_cd_pipeline_tool) | 50/50 |
+| Travel Memory App Deployment | Deploy Travel Memory Application | [Repo Link](https://github.com/vishwesh5544/ci_cd_pipeline_tool) | 50/50 |
+| Graded Assignment On Serverless Architecture | Carry out DevOps tasks using Lambda | [Repo Link](https://github.com/vishwesh5544/serverless_submission) | Not graded |
+
+
 
 ---
 
